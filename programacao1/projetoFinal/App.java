@@ -152,7 +152,6 @@ public class App {
                     System.out.println("Opção inválida!");
             }
         } while (opcao != 4);
-
         leitor.close();
     }
 }
