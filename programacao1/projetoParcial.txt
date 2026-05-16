@@ -1,0 +1,42 @@
+Neste projeto de programação orientada a objetos utilizando Java, você deve construir um sistema para gerenciamento de uma biblioteca de cursos em formato digital.
+
+Você deve:
+A) Programar uma classe para abstrair o conceito de curso, contendo os seguintes atributos: nome, número de aulas, público-alvo (iniciante ou experiente) e 
+ano de lançamento. OK
+
+B) Programar uma classe para abstrair o conceito de instrutor, a qual possui os atributos nome e e-mail. OK
+
+C) Programar a associação entre as classes curso e instrutor, implementadas nas letras A) e B). OK
+
+D) Programar um método main, em uma classe criada apenas para contê-lo. O método main deve instanciar 2 cursos com seus respectivos instrutores, 
+sendo um objeto do tipo curso criado com os dados atribuídos em código e um objeto do tipo curso com os dados informados pelo usuário por leitura do teclado. OK
+
+E) No método main, exibir os cursos criados, conforme o item D), no seguinte formato:
+Curso: < nome do curso > - < ano de lançamento >
+Nº de aulas: < número de aulas >
+Público-alvo: < público-alvo >
+Instrutor: < nome do instrutor > - < e-mail do instrutor >
+
+
+Aspectos de implementação que devem ser seguidos:
+- Todos os atributos devem possuir visibilidade private; OK
+- Todas as classes de conceitos devem oferecer métodos construtor default e método construtor que atualize todos os atributos; OK
+- Os dados de entrada precisam ser validados ao contexto do problema; OK
+- Os nomes de classes, atributos e métodos devem respeitar as boas práticas de programação Java; OK
+- Respeitando os itens citados, você pode incluir qualquer tipo de estrutura que julgar necessário para a solução. OK
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+Revisar:
+
+- Não utiliza a associação para exibir
+
+- Não associa curso e instrutor no main
+
+- Não cria a instância por leitura
+
+- Não exibe os dados das instâncias
+
+- O projeto não compila
+
+- Escopo do método main
