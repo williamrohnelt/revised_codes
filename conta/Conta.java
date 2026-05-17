@@ -29,15 +29,15 @@ public class Conta {
             System.out.printf("Valor indisponível!\n");
     }
 
-    public void depositar(double valor) {
-        saldo = saldo + valor;
-    }
-
     public void transferir(double valor, Conta destino) {
         if (saldo >= valor) {
             saldo = saldo - valor;
             destino.depositar(valor);
         } else
             System.out.printf("Valor indisponível!\n");
+    }
+
+    public void depositar(double valor) {
+        saldo = saldo + valor;
     }
 }
