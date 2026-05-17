@@ -1,4 +1,4 @@
-package codigos_revisados.codigosDiversos;
+package codigosDiversos;
 
 import java.security.SecureRandom;
 

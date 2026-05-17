@@ -1,4 +1,4 @@
-package codigos_revisados.aluno;
+package aluno;
 
 public class Aluno {
 

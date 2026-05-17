@@ -1,4 +1,4 @@
-package codigos_revisados.alunoUniversitario;
+package alunoUniversitario;
 
 // classe chamada Aluno, public (pode ser acessada através de outras classes)
 // extends significa que Aluno herda tudo que a classe Pessoa tem, atributos e métodos

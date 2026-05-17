@@ -1,4 +1,4 @@
-package codigos_revisados.codigosDiversos;
+package codigosDiversos;
 
 // classe GradeBook utilizando um array para armazenar notas de teste
 

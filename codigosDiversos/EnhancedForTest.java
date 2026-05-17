@@ -1,4 +1,4 @@
-package codigos_revisados.codigosDiversos;
+package codigosDiversos;
 
 // Utilizando a instrução for aprimorada para somar inteiros em um array
 public class EnhancedForTest {

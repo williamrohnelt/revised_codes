@@ -1,4 +1,4 @@
-package codigos_revisados.codigosDiversos;
+package codigosDiversos;
 
 // inicializando os elementos de um array como valores padrão de zero
 public class InitArray {

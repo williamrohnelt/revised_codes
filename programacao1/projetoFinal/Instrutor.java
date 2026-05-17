@@ -1,3 +1,5 @@
+package programacao1.projetoFinal;
+
 public class Instrutor {
 
     // atributes

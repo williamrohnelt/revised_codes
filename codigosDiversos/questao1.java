@@ -1,4 +1,4 @@
-package codigos_revisados.codigosDiversos;
+package codigosDiversos;
 
 public class questao1 {
     public static void main(String[] args) {

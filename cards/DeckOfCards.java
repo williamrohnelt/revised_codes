@@ -1,4 +1,4 @@
-package codigos_revisados.cards;
+package cards;
 
 // importe da classe SecureRandom que está no pacote security, dentro da biblioteca java
 import java.security.SecureRandom;

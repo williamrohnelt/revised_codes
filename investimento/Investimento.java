@@ -1,3 +1,4 @@
+package investimento;
 
 // uma interface é como um contrato, ela define o que uma classe deve ter, mas não como implementar
 public interface Investimento {

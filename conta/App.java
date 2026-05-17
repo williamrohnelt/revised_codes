@@ -1,4 +1,4 @@
-package codigos_revisados.conta;
+package conta;
 
 public class App {
     public static void main(String args[]) {

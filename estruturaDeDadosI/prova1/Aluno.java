@@ -1,4 +1,4 @@
-package codigos_revisados.estruturaDeDadosI.prova1;
+package estruturaDeDadosI.prova1;
 
 public class Aluno {
 

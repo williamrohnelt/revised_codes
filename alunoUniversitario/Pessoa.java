@@ -1,4 +1,4 @@
-package codigos_revisados.alunoUniversitario;
+package alunoUniversitario;
 
 public class Pessoa {
 

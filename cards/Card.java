@@ -1,4 +1,4 @@
-package codigos_revisados.cards;
+package cards;
 
 // criação da classe Card, que representa uma carta de baralho
 public class Card {

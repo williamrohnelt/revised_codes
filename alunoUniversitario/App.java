@@ -1,4 +1,4 @@
-package codigos_revisados.alunoUniversitario;
+package alunoUniversitario;
 
 public class App {
     public static void main(String args[]) {

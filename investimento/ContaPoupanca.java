@@ -1,3 +1,4 @@
+package investimento;
 
 // extends significa que a classe ContaPoupanca herda tudo que a classe Conta tem, atributos e métodos
 public class ContaPoupanca extends Conta implements Investimento {

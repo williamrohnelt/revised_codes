@@ -1,4 +1,4 @@
-package codigos_revisados.atleta;
+package atleta;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package codigos_revisados.programacao1.projetoParcial;
+package programacao1.projetoParcial;
 
 import java.util.Scanner; // classe Scanner, que permite a leitura do teclado
 

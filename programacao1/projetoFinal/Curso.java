@@ -1,3 +1,5 @@
+package programacao1.projetoFinal;
+
 import java.util.ArrayList;
 
 public class Curso {

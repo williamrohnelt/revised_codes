@@ -1,4 +1,4 @@
-package codigos_revisados.programacao1.projetoParcial;
+package programacao1.projetoParcial;
 
 public class Curso {
 

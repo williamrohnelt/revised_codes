@@ -1,4 +1,4 @@
-package codigos_revisados.contaPoupanca2;
+package contaPoupanca2;
 
 public class Conta {
 

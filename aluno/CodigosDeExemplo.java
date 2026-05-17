@@ -1,4 +1,4 @@
-package codigos_revisados.aluno;
+package aluno;
 
 public class CodigosDeExemplo {
     public static void main(String args[]) {

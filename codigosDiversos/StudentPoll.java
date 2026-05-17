@@ -1,4 +1,4 @@
-package codigos_revisados.codigosDiversos;
+package codigosDiversos;
 
 // programa de análise de enquete
 public class StudentPoll {

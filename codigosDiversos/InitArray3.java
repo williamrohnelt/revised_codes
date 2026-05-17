@@ -1,4 +1,4 @@
-package codigos_revisados.codigosDiversos;
+package codigosDiversos;
 
 // calcula os valores a serem colocados nos elementos de um array
 public class InitArray3 {

@@ -1,4 +1,4 @@
-package codigos_revisados.atleta;
+package atleta;
 
 public class Atleta {
 

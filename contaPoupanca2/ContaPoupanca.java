@@ -1,4 +1,4 @@
-package codigos_revisados.contaPoupanca2;
+package contaPoupanca2;
 
 // extends significa que a classe ContaPoupanca herda tudo que a classe Conta tem, atributos e métodos
 public class ContaPoupanca extends Conta {

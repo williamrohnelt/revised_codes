@@ -1,4 +1,4 @@
-package codigos_revisados.cards;
+package cards;
 
 public class DeckOfCardsMain {
 

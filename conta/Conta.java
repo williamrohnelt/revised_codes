@@ -1,4 +1,4 @@
-package codigos_revisados.conta;
+package conta;
 
 public class Conta {
 

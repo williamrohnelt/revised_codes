@@ -1,4 +1,4 @@
-package codigos_revisados.codigosDiversos;
+package codigosDiversos;
 
 // criação da classe public de nome BarChart
 public class BarChart {

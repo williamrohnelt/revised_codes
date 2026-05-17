@@ -1,4 +1,4 @@
-package codigos_revisados.calculadora;
+package calculadora;
 
 import java.util.Scanner;
 

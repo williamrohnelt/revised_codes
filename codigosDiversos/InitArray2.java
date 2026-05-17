@@ -1,4 +1,4 @@
-package codigos_revisados.codigosDiversos;
+package codigosDiversos;
 
 // inicializando os elementos de um array com um inicializador de array
 public class InitArray2 {

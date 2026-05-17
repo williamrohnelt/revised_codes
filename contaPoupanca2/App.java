@@ -1,4 +1,4 @@
-package codigos_revisados.contaPoupanca2;
+package contaPoupanca2;
 
 //Classe que integra o framework de Coleções do Java
 import java.util.ArrayList;

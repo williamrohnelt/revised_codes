@@ -1,4 +1,4 @@
-package codigos_revisados.alunoUniversitario;
+package alunoUniversitario;
 
 // extends significa que a classe AlunoUniversitario herda tudo que a classe Aluno tem, atributos e métodos
 public class AlunoUniversitario extends Aluno {

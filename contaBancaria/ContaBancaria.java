@@ -1,4 +1,4 @@
-package codigos_revisados.contaBancaria;
+package contaBancaria;
 
 public class ContaBancaria {
 
