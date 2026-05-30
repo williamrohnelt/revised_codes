@@ -30,8 +30,8 @@ public class Questao1 {
         }
         System.out.printf("\n\n");
 
-        var2=matriz[0][0];
-        i=0;
+        var2 = matriz[0][0];
+        i = 0;
         while (i<5) {
             System.out.printf("%d\t", matriz[var2][i]);
             i = i + 2;

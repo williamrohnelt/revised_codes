@@ -1,4 +1,4 @@
-package fila_queue.lancheria;
+package estruturaDeDadosI.fila_queue.lancheria;
 
 public class Aluno {
 
