@@ -1,6 +1,6 @@
 package codigosDiversos;
 
-public class questao1 {
+public class Questao1 {
     public static void main(String[] args) {
 
         int[][] matriz = { {1, 2, 3, 4, 5}, {6, 7, 8, 9, 10} };
@@ -30,8 +30,8 @@ public class questao1 {
         }
         System.out.printf("\n\n");
 
-        var2=matriz[0][0];
-        i=0;
+        var2 = matriz[0][0];
+        i = 0;
         while (i<5) {
             System.out.printf("%d\t", matriz[var2][i]);
             i = i + 2;
