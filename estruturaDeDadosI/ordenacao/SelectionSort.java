@@ -15,24 +15,22 @@ public class SelectionSort {
     }
 
     public static void selectionsort(int vetor[]) {
-        int i, j, menor, aux;
-        for (i = 0; i < vetor.length; i++) {
-            menor = i;
-            for (j = i + 1; j < vetor.length; j++) {
+        for (int i = 0; i < vetor.length; i++) {
+            int menor = i;
+            for (int j = i + 1; j < vetor.length; j++) {
                 if (vetor[j] < vetor[menor]) {
                     menor = j;
                 }
             }
-            aux = vetor[menor];
+            int aux = vetor[menor];
             vetor[menor] = vetor[i];
             vetor[i] = aux;
         }
     }
 
     public static void imprimir(int vetor[], String msg) {
-        int i;
-        System.out.println("*********** %s ***********\n" + msg);
-        for (i = 0; i < vetor.length; i++) {
+        System.out.printf("*********** %s ***********\n", msg);
+        for (int i = 0; i < vetor.length; i++) {
             System.out.printf("%d ", vetor[i]);
         }
         System.out.println();
@@ -40,7 +38,7 @@ public class SelectionSort {
 
     public static void montar(int vetor[]) {
         Random aleatorio = new Random();
-        // aleatorio.setSeed(0);
+        aleatorio.setSeed(0);
         for (int i = 0; i < vetor.length; i++) {
             vetor[i] = aleatorio.nextInt(100);
         }
