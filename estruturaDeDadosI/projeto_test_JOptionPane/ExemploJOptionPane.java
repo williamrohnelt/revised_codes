@@ -1,31 +1,31 @@
 package estruturaDeDadosI.projeto_test_JOptionPane;
 
-// importa a classe JOptionPane do pacote javax.swing, que é a biblioteca gráfica padrão do Java
+// Imports the JOptionPane class from the javax.swing package, which is the standard Java graphics library
 import javax.swing.JOptionPane;
 
 public class ExemploJOptionPane {
     public static void main(String[] args) {
 
-        // método showMessageDialog exibe uma janela com uma mensagem
+        // the showMessageDialog method displays a window with a message
         JOptionPane.showMessageDialog(
-            null,                       // centraliza na tela
-            "Bem-vindo ao nosso aplicativo!",   // mensagem
-            "Mensagem de Boas-Vindas",            // título
-            JOptionPane.INFORMATION_MESSAGE             // tipo = ícone exibido na janela
+            null,                   // center the window on the screen
+            "Welcome to our aplication!",   // message displayed inside of the window
+            "Welcome message",                // title
+            JOptionPane.INFORMATION_MESSAGE          // type = icon displayed on the screen
         );
 
-        // Exibe uma mensagem de erro
+        // displays an error message
         JOptionPane.showMessageDialog(
-            null,           // centraliza na tela
-            "Um erro ocorreu!",     // mensagem
-            "Erro",                   // título
-            JOptionPane.ERROR_MESSAGE       // tipo = ícone exibido na janela
+            null,
+            "An error ocurred!",
+            "Error",
+            JOptionPane.ERROR_MESSAGE
         );
     }
 }
 
 // JOptionPane é uma classe da biblioteca javax.swing do Java que permite criar caixas de diálogo gráficas
-// janelas popup para interagir com o usuário, sem precisar construir uma interface gráfica completa
+// janelas popup para interagir com o usuário, sem precisar construir uma interface gráfica completa do zero
 
 // JOptionPane.INFORMATION_MESSAGE  // ícone de informação
 // JOptionPane.ERROR_MESSAGE        // ícone de erro
